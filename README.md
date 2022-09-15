@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfie-agustin
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Science in the Buenos Aires Institute of Technology
+- 🌱 I’m currently learning IA, Data Science in the Buenos Aires Institute of Technology
 - 📫 How to reach me agustinalfie0@gmail.com
 
 <!---
